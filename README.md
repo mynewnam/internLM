@@ -1,2 +1,6 @@
 # internLM
-Learning for InternLM
+原神角色扮演LLM
+
+## 实现路线
+
++ 依据原神角色语音文本信息构建RAG，利用信息检索功能以及Prompt工程模拟原神角色的语气；
